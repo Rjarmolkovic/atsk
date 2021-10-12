@@ -1,0 +1,122 @@
+@media (max-width: 800px){
+  body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap:wrap;
+  }
+
+}
+
+@media(max-width: 800px){
+  .showcase{
+    width: 80%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap:wrap;
+  }
+  }
+
+@media(max-width: 800px){
+  .icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap:wrap;
+    margin-left: 120px;
+  }
+}
+
+@media(max-width: 800px){
+  .people{
+    width: 80%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap:wrap;
+    margin-left: 70px;
+  }
+}
+@media (max-width: 800px){
+  header{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  }
+}
+
+@media( max-width: 800px){
+  .rights{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap:wrap;
+  }
+  .social{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    margin-right: 70px;
+    margin-left: 70px;
+  }
+}
+
+@media(max-width: 800px){
+  .box{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap:wrap;
+    margin-right: 75px;
+    margin-left: 75px;
+  }
+}
+
+@media(max-width: 800px){
+  .up{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .button{
+    width: 165px;
+    height: 26px;
+    color:white;
+    background: #185ADB;
+    border: 3px solid #185ADB;
+    border-radius: 3px;
+    text-align: center;
+    margin: 0 0 0 0px;
+    cursor: pointer;
+  }
+}
+
+@media(max-width:800px){
+  .bottomup{
+    display: flex;
+    flex-direction: column;
+    align-items: center
+  }
+  .bottombutton{
+    width: 165px;
+    height: 26px;
+    color:white;
+    background: #185ADB;
+    border: 3px solid #185ADB;
+    border-radius: 3px;
+    text-align: center;
+    margin: 0 0 0 0px;
+    cursor: pointer;
+  }
+}
